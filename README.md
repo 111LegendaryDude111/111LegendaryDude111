@@ -86,7 +86,7 @@ Plan → Retrieve → Generate → Validate → Execute
 ```markdown
 ## GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true)
 ```
