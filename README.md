@@ -75,13 +75,11 @@ Plan → Retrieve → Generate → Validate → Execute
 - Lip-sync integration
 ```
 
----
-
-## GitHub Stats</h2>
+## GitHub Stats
 
 <p align="center">
-  <img width="48%" height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
