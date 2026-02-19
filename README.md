@@ -77,15 +77,13 @@ Plan → Retrieve → Generate → Validate → Execute
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+## GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🔹 6. Contact
 
