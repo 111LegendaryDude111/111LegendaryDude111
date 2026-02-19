@@ -1,11 +1,10 @@
 ## Header
 
 ```markdown
-# David Zigrid
 Senior Machine Learning Engineer
 
 Designing and deploying production-grade AI systems:
-RAG • LLM Agents • Generative CV • Anti-Fraud ML
+RAG • LLM Agents • Generative CV • Classic ML
 ```
 ---
 ## About
