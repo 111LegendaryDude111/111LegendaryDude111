@@ -1,4 +1,4 @@
-## 🔹 1. Header
+## Header
 
 ```markdown
 # David Zigrid
@@ -7,10 +7,8 @@ Senior Machine Learning Engineer
 Designing and deploying production-grade AI systems:
 RAG • LLM Agents • Generative CV • Anti-Fraud ML
 ```
-
 ---
-
-## 🔹 2. About
+## About
 
 ```markdown
 ## About Me
@@ -28,10 +26,9 @@ Focused on:
 I specialize in bridging research-grade models with production constraints 
 (latency, scalability, cost efficiency, monitoring).
 ```
-
 ---
 
-## 🔹 3. Tech Stack 
+## Tech Stack 
 
 ```markdown
 ## Tech Stack
@@ -51,7 +48,7 @@ CI/CD • Feature Engineering • Evaluation Pipelines • Monitoring
 
 ---
 
-## 🔹 4. Featured Projects
+## Featured Projects
 
 ```markdown
 ## Selected Projects
@@ -81,16 +78,14 @@ Plan → Retrieve → Generate → Validate → Execute
 
 ---
 
-## 🔹 5. GitHub Stats (сдержанно)
+## GitHub Stats
 
 ```markdown
 ## GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true)
 ```
-
 ---
 
 ## 🔹 6. Contact
