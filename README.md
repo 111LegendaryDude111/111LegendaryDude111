@@ -79,12 +79,10 @@ Plan → Retrieve → Generate → Validate → Execute
 ---
 
 ## GitHub Stats
-```html
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=111LegendaryDude111&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=111LegendaryDude111&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-```
 ---
 
 ## 🔹 6. Contact
