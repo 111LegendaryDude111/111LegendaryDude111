@@ -86,8 +86,7 @@ Plan → Retrieve → Generate → Validate → Execute
 ## 🔹 6. Contact
 
 ```markdown
-## Contact
 
-LinkedIn:https://www.linkedin.com/in/david-sukhashvili-121065365/
-Email: davidsukhashvili807@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/david_sukhashvili_121065365/)
+- 📧 davidsukhashvili807@gmail.com
 ```
