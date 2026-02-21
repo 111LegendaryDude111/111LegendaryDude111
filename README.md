@@ -38,6 +38,11 @@ Python • PyTorch • Transformers • HuggingFace • NumPy • Pandas
 ### LLM / Agents
 LangChain • LangGraph • vLLM • OpenAI API • Qwen • RAG
 
+### Generative CV
+Diffusion Models • Stable Diffusion • ControlNet • LoRA • DreamBooth  
+SVD / Video Diffusion • MuseTalk • Wan 2.x  
+ComfyUI • Automatic1111 • ONNX / TensorRT Optimization
+
 ### Infrastructure
 Docker • Kubernetes • ClickHouse • PostgreSQL • Redis • MinIO
 
