@@ -1,7 +1,7 @@
 ## Header
 
 ```markdown
-Senior Machine Learning Engineer
+Machine Learning Engineer
 
 Designing and deploying production-grade AI systems:
 RAG • LLM Agents • Generative CV • Classic ML
@@ -63,12 +63,6 @@ LLM-based GitHub CI assistant
 - Automated PR analysis  
 - CI integration  
 
-### RAG SQL Analytics Assistant
-Plan → Retrieve → Generate → Validate → Execute  
-- Faithfulness evaluation  
-- Low-latency retrieval  
-- Business analytics use cases  
-
 ### Anti-Fraud SMS Detection Pipeline
 - Feature engineering on CDR logs  
 - Anomaly detection  
@@ -92,6 +86,6 @@ Plan → Retrieve → Generate → Validate → Execute
 
 ```markdown
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/david_sukhashvili_121065365/)
-- 📧 davidsukhashvili807@gmail.com
+- LinkedIn :(https://www.linkedin.com/in/david_sukhashvili_121065365/)
+- davidsukhashvili807@gmail.com
 ```
