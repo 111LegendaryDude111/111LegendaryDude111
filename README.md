@@ -22,12 +22,6 @@ Focused on:
 I specialize in bridging research-grade models with production constraints:
 **latency, scalability, cost efficiency, and monitoring.**
 
-Strong emphasis on:
-- end-to-end system design (data → model → serving → evaluation)
-- robust feature engineering and signal extraction
-- reliable offline/online evaluation pipelines
-- human-in-the-loop feedback and labeling systems
-
 ---
 
 ## Tech Stack
