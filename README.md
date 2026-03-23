@@ -53,50 +53,6 @@ Evaluation Pipelines • Monitoring • Data Validation • Drift Detection
 
 ---
 
-## Selected Projects
-
-### AI Code Review Agent
-LLM-based GitHub CI assistant
-
-- Structured output validation (JSON schemas)
-- Automated PR analysis and feedback generation
-- CI/CD integration for scalable usage
-- Designed for deterministic and reproducible outputs
-
----
-
-### Anti-Fraud SMS Detection Pipeline
-ML system for detecting low-quality and automated traffic
-
-- Feature engineering on CDR / clickstream logs
-- Rule-based + ML hybrid detection
-- Batch and near-real-time scoring pipelines
-- ClickHouse-based aggregation and analytics
-- Designed analyst feedback loop for labeling and improvement
-
----
-
-### RAG-based Knowledge Assistant
-Production-oriented retrieval and QA system
-
-- Document ingestion and chunking pipelines
-- Hybrid retrieval (BM25 + embeddings)
-- Grounded answer generation with evaluation
-- Latency-optimized inference via vLLM
-- Designed evaluation pipelines (quality + hallucination control)
-
----
-
-## Engineering Principles
-
-- **Systems over models** — focus on full pipelines, not isolated models  
-- **Evaluation-first** — no model without measurable quality  
-- **Latency-aware design** — optimize for real-world constraints  
-- **Hybrid approaches** — combine rules + ML + LLMs when needed  
-- **Data-centric mindset** — better features > more complex models  
-
----
-
 ## GitHub Stats
 
 <p align="center">
