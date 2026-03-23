@@ -1,5 +1,3 @@
-# David Sukhashvili
-
 ## Machine Learning Engineer
 
 Designing and deploying production-grade AI systems:  
