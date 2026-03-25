@@ -7,15 +7,14 @@ Designing and deploying production-grade AI systems:
 
 ## About Me
 
-Machine Learning Engineer with 5+ years of experience building NLP and ML systems  
-for financial, insurance, and enterprise domains.
+Machine Learning Engineer specializing in production AI systems:
 
-Focused on:
-- Retrieval-Augmented Generation (RAG)
-- LLM-based autonomous agents
-- Anti-fraud and anomaly detection systems
-- Classical ML and feature-driven modeling
-- ML system design & infrastructure
+- Anti-fraud ML pipelines  
+- Retrieval-Augmented Generation (RAG) architectures  
+- LLM training and fine-tuning  
+- Agentic systems based on Large Language Models  
+
+Building scalable, high-performance systems with a focus on reliability, efficiency, and measurable business impact.
 
 I specialize in bridging research-grade models with production constraints:
 **latency, scalability, cost efficiency, and monitoring.**
