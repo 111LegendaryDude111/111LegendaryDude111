@@ -54,6 +54,5 @@ Evaluation Pipelines • Monitoring • Data Validation • Drift Detection
 ---
 
 ## Contact
-
-- LinkedIn: https://www.linkedin.com/in/david_sukhashvili_121065365/
+- Telegram: https://t.me/DLZig
 - Email: davidsukhashvili807@gmail.com
